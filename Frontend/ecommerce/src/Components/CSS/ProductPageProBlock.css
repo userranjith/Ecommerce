@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.pro_block{
+    
+    margin-bottom: 40px;
+}   
+
+
+
+.title_container{
+    margin: 5px 20px;
+}
+
+.cards_block{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-evenly;
+}

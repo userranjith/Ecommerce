@@ -1,0 +1,32 @@
+.log{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 200px;
+}
+.h1_heading_login{
+    color: #ffe700;
+}
+.login_form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    gap: 20px;
+}
+
+.login_form input{
+    height: 50px;
+    width: 100%;
+    border: none;
+    padding-left: 15px;
+    border-radius: 10px;
+}
+.sub_btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #2874F0;
+    color: white;
+    
+}

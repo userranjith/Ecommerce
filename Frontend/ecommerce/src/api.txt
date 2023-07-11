@@ -1,0 +1,1171 @@
+[
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/1.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/2.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/3.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/4.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/5.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/6.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/7.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/8.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/9.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/10.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/11.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/12.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/13.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/14.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/15.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/16.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/17.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/18.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/19.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/20.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/21.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/22.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/23.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/24.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/25.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/26.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/27.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/28.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/29.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/30.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/31.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/32.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/33.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/34.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/35.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/36.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/37.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/38.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/39.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/40.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/41.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/42.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/43.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/44.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/45.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/46.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/47.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/48.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/49.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/50.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/51.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/52.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/53.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/54.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/55.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/56.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/57.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/58.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/59.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/60.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/61.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/62.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/63.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/64.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/65.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/66.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/67.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/68.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/69.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/70.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/71.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/72.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/73.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/74.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/75.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/76.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/77.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/78.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/79.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/80.jpeg"
+ },
+ {
+  "name": "SIRONA Natural Intimate Wash for Men &amp; Women",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/81.jpeg"
+ },
+ {
+  "name": "Aashirvaad Atta/Godihittu - Whole Wheat",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/82.jpeg"
+ },
+ {
+  "name": "Tata Salt Vacuum Evaporated Iodised Salt",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/83.jpeg"
+ },
+ {
+  "name": "BB Royal Cumin/Jeera/Jeerige - Whole",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/84.jpeg"
+ },
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/85.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/86.jpeg"
+ },
+ {
+  "name": "Jawai Magic Masala Roasted Whole Cashews",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/87.jpeg"
+ },
+ {
+  "name": "nutndiet Fresh Crunchy Cashews",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/88.jpeg"
+ },
+ {
+  "name": "BB Popular Almond/Badam - Californian",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/89.jpeg"
+ },
+ {
+  "name": "neu.farm Cashew/Kaju W320",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/90.jpeg"
+ },
+ {
+  "name": "Medium, Wholesome, Nutritious",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/91.jpeg"
+ },
+ {
+  "name": "neu.farm Cashew/Kaju W400",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/92.jpeg"
+ },
+ {
+  "name": "Uneek Original EHS61 Deep Bass with Sound&nbsp;",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/93.jpeg"
+ },
+ {
+  "name": "Digital Suraksh",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/94.jpeg"
+ },
+ {
+  "name": "Mobiseries Leather Zipper Headphone",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/95.jpeg"
+ },
+ {
+  "name": "Digital Suraksh",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/96.jpeg"
+ },
+ {
+  "name": "Mobiseries Leather Zipper Headphone",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/97.jpeg"
+ },
+ {
+  "name": "Digital Suraksh",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/98.jpeg"
+ },
+ {
+  "name": "Mobiseries Leather Zipper Headphone",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/99.jpeg"
+ },
+ {
+  "name": "Uneek Original EHS61 Deep Bass with Sound&nbsp;",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/100.jpeg"
+ },
+ {
+  "name": "Digital Suraksh",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/101.jpeg"
+ },
+ {
+  "name": "Mobiseries Leather Zipper Headphone",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/102.jpeg"
+ },
+ {
+  "name": "Uneek Original EHS61 Deep Bass with Sound&nbsp;",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/103.jpeg"
+ },
+ {
+  "name": "Digital Suraksh",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/104.jpeg"
+ },
+ {
+  "name": "Mobiseries Leather Zipper Headphone",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/105.jpeg"
+ },
+ {
+  "name": "Roasted &amp; Flavoured, Rich In Protein, Crunchy",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/106.jpeg"
+ },
+ {
+  "name": "Bold Care Intimate Wash For Men - With Tea Tree Oil&nbsp;",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/107.jpeg"
+ },
+ {
+  "name": "Jawai Magic Masala Roasted Whole Cashews",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/108.jpeg"
+ },
+ {
+  "name": "nutndiet Fresh Crunchy Cashews",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/109.jpeg"
+ },
+ {
+  "name": "Standard, Whole, Rich In Fibre, Vitamins, Perfect Snack",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/110.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/111.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/112.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/113.jpeg"
+ },
+ {
+  "name": "BB Popular Almond/Badam - Californian",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/114.jpeg"
+ },
+ {
+  "name": "neu.farm Cashew/Kaju W320",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/115.jpeg"
+ },
+ {
+  "name": "Medium, Wholesome, Nutritious",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/116.jpeg"
+ },
+ {
+  "name": "neu.farm Cashew/Kaju W400",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/117.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/118.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/119.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/120.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/121.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/122.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/123.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/124.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/125.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/126.jpeg"
+ },
+ {
+  "name": "Digital Suraksh",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/127.jpeg"
+ },
+ {
+  "name": "Mobiseries Leather Zipper Headphone",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/128.jpeg"
+ },
+ {
+  "name": "Roasted &amp; Flavoured, Rich In Protein, Crunchy",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/129.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/130.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/131.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/132.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/133.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/134.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/135.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/136.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/137.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/138.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/139.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/140.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/141.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/142.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/143.jpeg"
+ },
+ {
+  "name": "Jawai Magic Masala Roasted Whole Cashews",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/144.jpeg"
+ },
+ {
+  "name": "nutndiet Fresh Crunchy Cashews",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/145.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/146.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/147.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/148.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/149.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/150.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/151.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/152.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/153.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/154.jpeg"
+ },
+ {
+  "name": "Flipkart SmartBuy Back Cover for POCO C5",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/155.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/156.jpeg"
+ },
+ {
+  "name": "POCO C50 (Royal Blue, 32 GB)&nbsp;&nbsp;(2 GB RAM)",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/157.jpeg"
+ },
+ {
+  "name": "BB Popular Almond/Badam - Californian",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/158.jpeg"
+ },
+ {
+  "name": "neu.farm Cashew/Kaju W320",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/159.jpeg"
+ },
+ {
+  "name": "Medium, Wholesome, Nutritious",
+  "description": "Farmley Roasted and Flavoured Cashew - Black Pepper which emulsifies the taste of delicious nuts into your mouth",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/160.jpeg"
+ },
+ {
+  "name": "neu.farm Cashew/Kaju W400",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 3214,
+  "newprice": 3114,
+  "img": "./assest/161.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Cashews, unlike other oily tree nuts, contain starch which comprises 10% of their weight. This actually helps them to be more effective in dishes like milk-based desserts, stews and soups.",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": "./assest/162.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Loaded with zinc, iron, copper and manganese, the cashew nuts add a creamy texture to any dish; however, it never overpowers the flavour of any other ingredient. It is known to increase joint flexibility, improve bone health, eliminates the nagging pain of migraines, and protects the skin from UV damage.",
+  "oldprice": 5400,
+  "newprice": 5300,
+  "img": "./assest/163.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "When you gift someone a packet of cashews, you are actually gifting them boons of a healthy life!",
+  "oldprice": 4599,
+  "newprice": 4499,
+  "img": "./assest/164.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Make your snack time fun with Jawai Magic Masala Roasted Whole Cashews. Cashews are everyone’s favourite but what if their taste gets elevated with some extra flavour?&nbsp;",
+  "oldprice": 6788,
+  "newprice": 6688,
+  "img": "./assest/165.jpeg"
+ },
+ {
+  "name": "Motile Royal Wireless Bluetooth Earphone",
+  "description": "Cashews are rich in fibre, high in protein and low in sugar, making them perfectly healthy. Explore an entire range of Jawai products and many more only on Big Basket!",
+  "oldprice": 3487,
+  "newprice": 3387,
+  "img": "./assest/166.jpeg"
+ },
+ {
+  "name": "HAWKDREAM Silicone Pull String Headphone",
+  "description": "Salt, Sugar, Garlic Powder, Onion Powder, Spices &amp; Condiments (Red Chilli Powder, Dry Mango Powder, Black Rock Salt, Cumin Powder), Malic Acid (E296), Natural &amp; Nature Identical Flavouring Substances, Silicon Dioxide (E551), Di-Sodium 5Iosinate (E631), Di-Sodium 5'Guanylate (E627), Spice Extracts.&nbsp;",
+  "oldprice": 1264,
+  "newprice": 1164,
+  "img": "./assest/167.jpeg"
+ }
+]

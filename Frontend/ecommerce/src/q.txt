@@ -1,0 +1,12 @@
+[
+ {
+  "name": "Farmley Black Pepper Cashew - Roasted &amp; Flavoured",
+  "description": "Whole kaju or cashew from the house of bb Popular are absolutely delicious and crunchy; this popular snack is loaded with nutritional values. It is said that a handful of cashews can be really good for your health as it has sufficient amounts of phosphorus, manganese, copper and magnesium.&nbsp;",
+  "oldprice": 1944,
+  "newprice": 1844,
+  "img": ".\/assest\/1.jpeg",
+  "specs": [\nTelevision Set 1N, Remote Control 1N, Wallmount Stand 1N, AAA Batteries 2N, Desktop Stand 2N, Stand Support Screws 4N, Quick Setup Guide 1N, Gaming Controller 1N, Power Cord 1N, AV Converting Cable 1N,Model Name 43SAFHDM,Color Black,Display Size 107.6 cm (43 inch),\nScreen Type LED ,HD Technology &amp; Resolution Full HD  1920 x 1080],
+  "category": "grocery",
+  "rating": 3
+ }
+]

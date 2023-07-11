@@ -1,0 +1,28 @@
+.order_container{
+    margin-top: 60px;
+    width: 50vw;
+    margin-left: 100px;
+}
+.orders{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-inline: auto;
+    margin-block: 20px;
+    background-color: white;
+}
+
+.orderempty{
+    padding-top: 60px;    
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.orderempty p{
+    font-size: 2rem;
+    color: gray;
+}

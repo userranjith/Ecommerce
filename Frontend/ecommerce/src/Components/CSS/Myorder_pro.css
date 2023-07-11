@@ -1,0 +1,23 @@
+.myorder_product{
+    
+   
+    width: 50vw;
+    margin-inline: auto;
+    padding-inline: 40px;
+    padding-block: 8px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.totalbill{
+    width: 50vw;
+    margin-inline: auto;
+    padding-inline: 40px;
+    padding-block: 8px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

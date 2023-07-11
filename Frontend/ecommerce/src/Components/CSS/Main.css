@@ -1,0 +1,11 @@
+
+
+.navcss{
+    position: fixed;
+    z-index: 16;
+    top: 0px;
+}
+
+link{
+    text-decoration: none;
+}
